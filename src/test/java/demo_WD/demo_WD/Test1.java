@@ -25,6 +25,6 @@ public class Test1
 		   Thread.sleep(1000);
 		   driver.findElement(By.xpath("//div[@class='nav-line-1-container']")).click();
 		   Thread.sleep(2000);
-
+           driver.quit();
 }
 }
