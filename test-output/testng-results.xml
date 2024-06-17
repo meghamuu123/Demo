@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-16T22:52:28 IST" name="Default suite" finished-at="2024-06-16T22:52:38 IST" duration-ms="10241">
+    <groups>
+    </groups>
+    <test started-at="2024-06-16T22:52:28 IST" name="Default test" finished-at="2024-06-16T22:52:38 IST" duration-ms="10241">
+      <class name="demo_WD.demo_WD.Test1">
+        <test-method signature="amazonlogin()[pri:0, instance:demo_WD.demo_WD.Test1@209da20d]" started-at="2024-06-16T22:52:28 IST" name="amazonlogin" finished-at="2024-06-16T22:52:38 IST" duration-ms="10187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonlogin -->
+      </class> <!-- demo_WD.demo_WD.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
